@@ -30,7 +30,7 @@ version = "2020.2"
 project {
 
     vcsRoot(HttpsGithubComG0t4teamcityCourseCards)
-
+    desctiption = "My JS Project"
     buildType(id02Firefox)
     buildType(DeployToStaging)
     buildType(id01FastTests)
